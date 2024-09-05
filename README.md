@@ -1,15 +1,6 @@
-# Proyecto-Modelos-I
+## realizado por:
+Nicolás Carmona Cardona. cc 1013336179. Ingeniería de sistemas
+Victor Manuel Restrepo Torres. cc 1017270327. Ingeniería de sistemas
+Alejandro Herrera Mira. cc 1000901844. Ingenieria civil
 
-## Realizado por:
-
-- **Nombre**: Nicolás Carmona Cardona  
-  **Cédula**: 1013336179  
-  **Programa**: Ingeniería de sistemas
-
-- **Nombre**: Victor Manuel Restrepo Torres  
-  **Cédula**: 1017270327  
-  **Programa**: Ingeniería de sistemas
-
-- **Nombre**: Alejandro Herrera
-  **Cédula**: 1000901844  
-  **Programa**: Ingenieria civil
+# Nota: Se debe tener subir el json generado por kaggle a el ambiente de colab 
