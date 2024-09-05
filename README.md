@@ -1,6 +1,6 @@
 # Proyecto-Modelos-I
 
-## Participantes
+## Realizado por:
 
 - **Nombre**: Nicolás Carmona Cardona  
   **Cédula**: 1013336179  
@@ -10,6 +10,6 @@
   **Cédula**: 1017270327  
   **Programa**: Ingeniería de sistemas
 
-- **Nombre**:  
-  **Cédula**: xxxxxxxx  
-  **Programa**: Nombre del Programa
+- **Nombre**: Alejandro Herrera
+  **Cédula**: 1000901844  
+  **Programa**: Ingenieria civil
